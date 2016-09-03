@@ -1,5 +1,8 @@
 {
   "name": "mapbox-gl-js",
+  "authors": [
+    "Mapbox"
+  ],
   "version": "0.23.0",
   "description": "A WebGL JavaScript interactive maps library that can render Mapbox Vector Tiles.",
   "main": [
