@@ -3,7 +3,7 @@
     "authors": [
         "Mapbox"
     ],
-    "version": "0.37.0",
+    "version": "0.39.1",
     "description": "A WebGL JavaScript interactive maps library that can render Mapbox Vector Tiles.",
     "main": [
         "mapbox-gl.js",
